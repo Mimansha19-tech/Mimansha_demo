@@ -1,2 +1,3 @@
 # Mimansha_demo
-My first repo
+My first Repository on GitHub
+Author - Mimansha Sharma
